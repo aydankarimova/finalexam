@@ -1,0 +1,122 @@
+.bg-body-tertiary{
+height: 80px;
+
+}
+
+.navbar-nav{
+gap: 20px;
+}
+.container-fluid{
+margin: 100px;
+}
+.navbar-brand{
+margin: 400px;
+
+}
+.eatwell{
+margin-right: 400px;
+}
+.imgOne{
+  width: 100%;
+  height: 850px;
+}
+.story{
+  color: rgb(217,217,217);
+}
+.imageAbout{
+width: 500px;
+margin-top: 100px;
+margin-left: 1000px;
+
+
+}
+
+.ourStory{
+  color: rgb(217,217,217);
+}
+.card-title{
+  color: black;
+}
+.textStory{
+  right: 100px;
+
+}
+.card-text{
+  color: rgb(217,217,217);
+
+}
+.card-body{
+  width: 530px;
+}
+.btn-outline-secondary{
+  border-radius: 0px;
+  height: 55px;
+  width: 200px;
+  margin-top: 55px;
+}
+.menyu{
+  height: 600px;
+}
+.ourOffers{
+  color: rgb(217,217,217);
+  /* margin-top: 150px; */
+
+}
+
+.menu{
+  width: 100%;
+  height: 1100px;
+  background-color: rgb(248,249,250);
+
+}
+
+.card-group{
+  margin-top: 100px;
+  width: 1100px;
+  /* height: 200px; */
+  gap: 10px;
+}
+.away{
+  color: rgb(184,184,184);
+  width: 580px;
+}
+.card-body1{
+  margin-top: 50px;
+  height: 250px;
+}
+.card-title1{
+  color: rgb(253,164,3);
+}
+.card-text1{
+  color: rgb(184,184,184);
+
+}
+.menu1{
+  width: 100%;
+  height: 1000px;
+  background-color: rgb(248,249,250);
+
+}
+.menu2{
+  height: 500px;
+}
+.footer{
+  margin-top: 800px;
+  
+
+}
+.navStyle{
+  height: 700px;
+  background-color: rgb(34,34,34);
+
+}
+.Aboutus{
+  width: 200px;
+  color: rgb(175, 175, 175);
+  margin-left: 300px;
+}
+.navbar-brand0{
+  color: rgb(207, 206, 206) ;
+  margin-left: 300px;
+
+}
